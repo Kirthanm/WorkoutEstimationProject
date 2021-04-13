@@ -1,5 +1,8 @@
 # WorkoutEstimationProject
 
+![pose_tracking_upper_body_example](https://user-images.githubusercontent.com/76951087/114565877-52e61980-9c8f-11eb-8c9a-4da179d0131c.gif)
+![pose_tracking_full_body_landmarks](https://user-images.githubusercontent.com/76951087/114565885-54174680-9c8f-11eb-904a-8dc773c68634.png)
+
 Pose Landmark Model (BlazePose GHUM 3D)
 The landmark model in MediaPipe Pose comes in two versions: a full-body model that predicts the location of 33 pose landmarks (see figure below), and an upper-body version that only predicts the first 25. The latter may be more accurate than the former in scenarios where the lower-body parts are mostly out of view.
 
